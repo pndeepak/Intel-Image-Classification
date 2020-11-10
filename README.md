@@ -1,5 +1,7 @@
 # Intel-Image-Classification
 
+<img src="https://storage.googleapis.com/kaggle-datasets-images/111880/269359/a16c143f44e79d17f54d5e670f16e03b/dataset-cover.jpg?t=2019-02-01-19-30-12">
+
 # Problem Description
 
 Every day there are thpusands of images uploaded on the internet. It would be great if these images were automatically understood by the machines and accordingly labels were provided. This specific projects has around 14k train images consisting of Natural Scenes ranging from various classes such as mountains, glaciers, sea, buildings, forest and street.
