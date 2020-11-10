@@ -3,7 +3,7 @@
 
 # Problem Description
 
-Every day there are thpusands of images uploaded on the internet. It would be great if these images were automatically understood by the machines and accordingly labels were provided. This specific projects has around 14k train images consisting of Natural Scenes ranging from various classes such as mountains, glaciers, sea, buildings, forest and street.
+Every day there are thousands of images uploaded on the internet. It would be great if these images were automatically understood by the machines and accordingly labels were provided. This specific projects has around 14k train images consisting of Natural Scenes ranging from various classes such as mountains, glaciers, sea, buildings, forest and street.
 
 # Problem statement
 
