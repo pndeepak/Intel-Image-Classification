@@ -1,6 +1,5 @@
 # Intel-Image-Classification
 
-<img src="https://storage.googleapis.com/kaggle-datasets-images/111880/269359/a16c143f44e79d17f54d5e670f16e03b/dataset-cover.jpg?t=2019-02-01-19-30-12">
 
 # Problem Description
 
