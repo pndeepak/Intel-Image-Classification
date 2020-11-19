@@ -1,6 +1,6 @@
 # Intel Image Classification
 
-<a href="https://colab.research.google.com/drive/1VH-8CLQuWJ-rTQeuXwUWReEepYoDOu0y#scrollTo=bmznUZQ1_8Un" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1VH-8CLQuWJ-rTQeuXwUWReEepYoDOu0y" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Problem Description
 
