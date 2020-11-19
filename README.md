@@ -1,6 +1,6 @@
 # Intel Image Classification
 
-<a href="https://colab.research.google.com/drive/1gJsAX-Vg3NFdJgY98YOExvf4udfJrgls#scrollTo=Mu1pb_9bAfPQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1VH-8CLQuWJ-rTQeuXwUWReEepYoDOu0y#scrollTo=bmznUZQ1_8Un" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Problem Description
 
@@ -22,7 +22,8 @@ It is a multiclass (6 class) classification problem where we have classified a i
 - Problem Overview
 - Exploratory Data Analysis
 - Deep learning model
-- Future Scope
+- Transfer learning
+- Comparison of various DL models
 
 # Tools and technologies used
 
